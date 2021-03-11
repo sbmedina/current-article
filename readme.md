@@ -1,1 +1,3 @@
 Original article: https://www.smh.com.au/lifestyle/health-and-wellness/the-slow-life-and-city-living-are-more-compatible-than-you-think-20210301-p576si.html
+
+The exercise of the sixth week consists of selecting a current news from an online newspaper of your choice and creating an HTML document that has the same content as the news (title, subtitles, date, text, images, links, etc.) respecting the elements HTML semantics and saving progress to a public Github repository.
