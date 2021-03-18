@@ -1,0 +1,115 @@
+header {
+    background-color: #f4f5f7;
+}
+ul {
+    font: 13px arial;
+    padding: 30px 0px 10px;
+}
+body {
+    width: 720px;
+    margin: 10px 0px 0px 150px;
+    padding: 0px;
+}
+h1 {
+    font: 20px georgia;
+    color: #555;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+h2 {
+    font-family: 360px Bold,Georgia,serif;
+    font-style: italic;
+    font-weight: 700;
+    padding: 0px 0px 30px;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 25px 0px 25px 100px;
+}
+#date {
+    padding: 10px 0px;
+    border: 0;
+    font: 15px arial;
+    vertical-align: baseline;
+    margin: 10px 0px;
+}
+#time {
+    border-bottom: 2px solid #e6e6e6;
+}
+figure {
+    width: 720px;
+    margin: auto;
+    padding: 0%;
+}
+.black-a:link {
+    color: black;
+    text-decoration: none;
+    padding: 30px 10px 10px 0px;
+}
+.black-a:visited {
+    color: #555555;
+    text-decoration: underline;
+    text-decoration-color: lightgray;
+}
+.black-a:hover { /* mouse over link */
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.blue-a:link {
+    color: #096dd2;
+    text-decoration: none;
+    padding: 30px 10px 10px 0px;
+}
+.blue-a:hover { /* mouse over link */
+    color: #096dd2;
+    text-decoration: underline;
+    text-decoration-color: #096dd2;
+}
+a:link {
+    color: #096dd2;
+    text-decoration: underline;
+    text-decoration-color: #aabbccda;
+    }
+a:visited {
+    color: #555555;
+    text-decoration: underline;
+    text-decoration-color: lightgray;
+}
+a:hover { /* mouse over link */
+    color: #096dd2;
+    text-decoration: underline;
+    text-decoration-color: #096dd2;
+}
+img {
+    width: 100%;
+}
+figcaption {
+    font: 15px arial;
+    color: #555555;
+}
+p {
+    color: #0a1633;
+    font: 18px georgia;
+    margin: 20px 0px 20px 100px;
+    display: block;
+    line-height: 30px;
+}
+cite {
+    font: 13px arial;
+    color: #555555;
+    margin: 20px 0px 20px 100px;
+}
+#blackquote {
+    margin: 20px;
+    padding: 0px 36px;
+}
+#red-line {
+    border-bottom: 1px solid #d9172f;
+    width: 140px;
+    margin: 0px 0px 0px 150px;
+}
+#tips {
+    background-color: #f4f5f7;
+    border-top: 2px solid rgb(173, 173, 173);
+}
