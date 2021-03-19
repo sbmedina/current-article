@@ -1,30 +1,69 @@
-header {
+#head {
     background-color: #f4f5f7;
+}
+li {
+    display: inline;
+}
+.btn-up {
+    color: #f4f5f7;
+    text-decoration: none
+}
+#head-up {
+    background-color: #0a1633;
+    padding: 0px;
+    border-bottom: 1px solid #454f64;
+}
+#head-down {
+    background-color: #0a1633;
+    padding: 0px;
+    margin: 0px;
+}
+button {
+    font-family: 14px Arial, Helvetica, sans-serif;
+    background-color: #0a1633;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    display: inline-block;
+}
+#btn-right {
+    text-align: right;
+}
+#btn-border {
+    border: 1px solid #454f64;
+}
+body {
+    width: 1280px;
+    margin: 0px;
 }
 ul {
     font: 13px arial;
     padding: 30px 0px 10px;
 }
-body {
-    width: 720px;
-    margin: 10px 0px 0px 150px;
-    padding: 0px;
-}
 h1 {
+    margin: 0px;
+    color: #fff;
+    text-align: center;
+    padding: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
     font: 20px georgia;
     color: #555;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
-h2 {
+h4 {
     font-family: 360px Bold,Georgia,serif;
     font-style: italic;
     font-weight: 700;
     padding: 0px 0px 30px;
 }
-h3 {
+h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 25px 0px 25px 100px;
+    padding: 5px 450px 20px 200px;
+
 }
 #date {
     padding: 10px 0px;
@@ -81,8 +120,11 @@ a:hover { /* mouse over link */
     text-decoration: underline;
     text-decoration-color: #096dd2;
 }
+figure {
+    padding: 5px 400px 20px 20px;
+}
 img {
-    width: 100%;
+    width: 752px;
 }
 figcaption {
     font: 15px arial;
@@ -91,14 +133,14 @@ figcaption {
 p {
     color: #0a1633;
     font: 18px georgia;
-    margin: 20px 0px 20px 100px;
+    padding: 5px 450px 20px 200px;
     display: block;
     line-height: 30px;
 }
 cite {
     font: 13px arial;
     color: #555555;
-    margin: 20px 0px 20px 100px;
+    margin: 20px 0px 20px 200px;
 }
 #blackquote {
     margin: 20px;
@@ -107,9 +149,19 @@ cite {
 #red-line {
     border-bottom: 1px solid #d9172f;
     width: 140px;
-    margin: 0px 0px 0px 150px;
+    margin: 0px 0px 0px 250px;
 }
 #tips {
     background-color: #f4f5f7;
     border-top: 2px solid rgb(173, 173, 173);
+    margin: 5px 450px 20px 200px;
+}
+#h-tips {
+    margin: 15px;
+    font-family: 30px Arial, Helvetica, sans-serif;
+}
+#p-tips {
+    font-family: 17px Arial, Helvetica, sans-serif;
+    line-height: 23px;
+    padding: 0px 20px 20px;
 }
