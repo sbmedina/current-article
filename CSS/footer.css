@@ -1,0 +1,69 @@
+#footer-up {
+  padding: 0px 100px;
+  background-color: #0a1633;
+}
+#footer-middle-up {
+  padding: 20px 0;
+}
+#title-footer {
+  padding-bottom: 20px;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#title-footer:hover {
+  text-decoration: none;
+}
+#footer-middle { 
+  padding: 20px 0px;
+  background-color: #0a1633;  
+  border-top: 1px solid #454f64;
+  border-bottom: 1px solid #454f64;
+}
+#ul-list {
+  display: block;
+}
+.titles {
+  color: #fff;
+  text-transform: uppercase;
+  font-style: bolder;
+}
+.li-text {
+  color: #fff;
+  display: block;
+  margin-top: 5px;
+}
+.a-list:link {
+  color: #fff;
+  text-decoration: none;
+}
+.a-list:hover {
+  text-decoration-line: underline;
+  text-decoration: white;
+  color: white;
+}
+#footer-down {
+  padding: 20px 0px;
+}
+#footer-ul {
+  display: inline-block;
+  padding: 0px 0px;
+  margin: 0px;
+  font: 13px arial;
+}
+.a-list{
+  color: #fff;
+}
+#footer-p {
+  padding: 0px;
+  font-size: 14px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #fff;
+}
+#btn-feedback {
+  margin: 0px 20px 0px 767px;
+}
+#btn-feedback:hover {
+  text-decoration: underline;
+}

@@ -68,8 +68,8 @@ h2 {
     vertical-align: baseline;
 }
 figure {
-    width: 720px;
-    margin: auto;
+    width: 720px;    
+    padding: 0px 0px 0px 50px;
 }
 img {
     width: 752px;
