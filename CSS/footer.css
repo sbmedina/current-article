@@ -15,9 +15,9 @@
 #title-footer:hover {
   text-decoration: none;
 }
-#footer-middle { 
+#footer-middle {
   padding: 20px 0px;
-  background-color: #0a1633;  
+  background-color: #0a1633;
   border-top: 1px solid #454f64;
   border-bottom: 1px solid #454f64;
 }
@@ -66,4 +66,7 @@
 }
 #btn-feedback:hover {
   text-decoration: underline;
+}
+nav {
+  display: flexbox;
 }

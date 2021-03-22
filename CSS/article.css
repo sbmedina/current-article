@@ -68,7 +68,7 @@ h2 {
     vertical-align: baseline;
 }
 figure {
-    width: 720px;    
+    width: 720px;
     padding: 0px 0px 0px 50px;
 }
 img {
@@ -118,7 +118,7 @@ cite {
     background-color: #f4f5f7;
     border-top: 2px solid rgb(173, 173, 173);
 }
-h5 {    
+h5 {
     margin: 15px;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -129,4 +129,7 @@ h5 {
     font-size: 16px;
     line-height: 23px;
     font-weight: lighter;
+}
+.bold-p {
+    font-weight: bold;
 }

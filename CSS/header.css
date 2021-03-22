@@ -1,6 +1,6 @@
 #head-up {
   padding: 0px;
-  background-color: #0a1633;  
+  background-color: #0a1633;
   border-bottom: 1px solid #454f64;
 }
 ul {
@@ -19,7 +19,7 @@ li {
 }
 .btn-up {
   color: #f4f5f7;
-  text-decoration: none;    
+  text-decoration: none;
 }
 .btn-up:visited {
   color: white;
@@ -28,7 +28,7 @@ li {
 .btn-up:link {
   text-decoration: none;
 }
-#head-down {  
+#head-down {
   padding: 0px;
   margin: 0px;
   background-color: #0a1633;
@@ -39,8 +39,8 @@ button {
   background-color: #0a1633;
   border: none;
   font-family: 14px Arial, Helvetica, sans-serif;
-  color: #fff;  
-  cursor: pointer;  
+  color: #fff;
+  cursor: pointer;
 }
 #title {
   padding: 0px 400px;
