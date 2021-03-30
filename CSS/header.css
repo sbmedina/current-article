@@ -1,4 +1,4 @@
-#head-up {
+#headUp {
   padding: 0px;
   background-color: #0a1633;
   border-bottom: 1px solid #454f64;
@@ -11,24 +11,24 @@ ul {
 li {
   display: inline;
 }
-#btn-01 {
+#btn01 {
   padding: 0px 20px
 }
-#btn-02 {
+#btn02 {
   padding: 0px 0px 0px 1100px
 }
-.btn-up {
+.btnUp {
   color: #f4f5f7;
   text-decoration: none;
 }
-.btn-up:visited {
+.btnUp:visited {
   color: white;
   text-decoration: none;
 }
-.btn-up:link {
+.btnUp:link {
   text-decoration: none;
 }
-#head-down {
+#headDown {
   padding: 0px;
   margin: 0px;
   background-color: #0a1633;
@@ -53,12 +53,12 @@ button {
   text-decoration: none;
   cursor: pointer;
 }
-#btn-border {
+#btnBorder {
   padding: 8px 20px;
   border: 1px solid #454f64;
   border-radius: 5px;
 }
-#btn-border:hover {
+#btnBorder:hover {
   border: 1px solid #454f64;
   background-color: royalblue;
 }

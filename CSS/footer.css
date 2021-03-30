@@ -1,27 +1,27 @@
-#footer-up {
+#footerUp {
   padding: 0px 100px;
   background-color: #0a1633;
 }
-#footer-middle-up {
+#footerMiddleUp {
   padding: 20px 0;
 }
-#title-footer {
+#titleFooter {
   padding-bottom: 20px;
   color: #fff;
   font-weight: bolder;
   font-size: 22px;
   font-family: 'Times New Roman', Times, serif;
 }
-#title-footer:hover {
+#titleFooter:hover {
   text-decoration: none;
 }
-#footer-middle {
+#footerMiddle {
   padding: 20px 0px;
   background-color: #0a1633;
   border-top: 1px solid #454f64;
   border-bottom: 1px solid #454f64;
 }
-#ul-list {
+#ulList {
   display: block;
 }
 .titles {
@@ -29,41 +29,41 @@
   text-transform: uppercase;
   font-style: bolder;
 }
-.li-text {
+.liText {
   color: #fff;
   display: block;
   margin-top: 5px;
 }
-.a-list:link {
+.aList:link {
   color: #fff;
   text-decoration: none;
 }
-.a-list:hover {
+.aList:hover {
   text-decoration-line: underline;
   text-decoration: white;
   color: white;
 }
-#footer-down {
+#footerDown {
   padding: 20px 0px;
 }
-#footer-ul {
+#footerUl {
   display: inline-block;
   padding: 0px 0px;
   margin: 0px;
   font: 13px arial;
 }
-.a-list{
+.aList{
   color: #fff;
 }
-#footer-p {
+#footerP {
   padding: 0px;
   font-size: 14px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: #fff;
 }
-#btn-feedback {
+#btnFeedback {
   margin: 0px 20px 0px 767px;
 }
-#btn-feedback:hover {
+#btnFeedback:hover {
   text-decoration: underline;
 }

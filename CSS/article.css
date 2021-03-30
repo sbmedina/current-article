@@ -17,27 +17,27 @@ a:hover { /* mouse over link */
     text-decoration: underline;
     text-decoration-color: #096dd2;
 }
-.black-a:link {
+.blackA:link {
     padding: 30px 10px 10px 0px;
     color: black;
     text-decoration: none;
 }
-.black-a:visited {
+.blackA:visited {
     color: #555555;
     text-decoration: underline;
     text-decoration-color: lightgray;
 }
-.black-a:hover { /* mouse over link */
+.blackA:hover { /* mouse over link */
     color: black;
     text-decoration: underline;
     text-decoration-color: black;
 }
-.blue-a:link {
+.blueA:link {
     padding: 30px 10px 10px 0px;
     color: #096dd2;
     text-decoration: none;
 }
-.blue-a:hover { /* mouse over link */
+.blueA:hover { /* mouse over link */
     color: #096dd2;
     text-decoration: underline;
     text-decoration-color: #096dd2;
@@ -90,7 +90,7 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
 }
-#red-line {
+#redLine {
     width: 140px;
     margin: 0px 0px 0px 250px;
     border-bottom: 1px solid #d9172f;
@@ -123,13 +123,13 @@ h5 {
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-#p-tips {
+#pTips {
     padding: 0px 20px 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 23px;
     font-weight: lighter;
 }
-.bold-p {
+.boldP {
     font-weight: bold;
 }
